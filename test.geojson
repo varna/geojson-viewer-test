@@ -11,7 +11,13 @@
         54.89847066952801
       ],
       "properties": {
-        "name": "084476-5080 (1976232)",
+        "title": "084476-5080 (1976232)",
+        "description": "A description",
+        "stroke": "#BA8500",
+        "fill": "#BA8500",
+        "stroke-opacity": 0.5,
+        "fill-opacity": 0.3,
+
         "season": 2022,
         "area": 5.89,
         "fieldNumber": "084476-5080",
@@ -19,7 +25,7 @@
         "multiSeason": false,
         "group": null,
         "uniqueId": "b90ce71a-e23b-40c6-a7e2-68b979b8c03b",
-        "color": "#BA8500",
+        
         "position": [
           23.638286590576165,
           54.89533767014795
